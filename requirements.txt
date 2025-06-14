@@ -1,0 +1,6 @@
+mediapipe
+torchvision
+torch
+opencv-python
+gradio
+numpy
